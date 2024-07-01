@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sergant446
+- 👋 Hi, I’m @sergant445
 - 👀 I’m interested in Programing and game development
 - 🌱 I’m currently learning Haskell
 - 📫 How to reach me: email sergantf445@gmail.com
